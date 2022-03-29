@@ -1,0 +1,20 @@
+{
+"cart": [
+    {
+      "id": 1,
+      "name": "Janet Loveseat",
+      "color": "Color: Adrian Velvet | Type:sofa | size:regular",
+      "price": 449,
+      "date": "2022-03-07",
+      "image": "https://www.ulcdn.net/images/products/283523/mini/Janet_adrian_velvet_LP.jpg?1566799468"
+    },
+    {
+      "id": 1,
+      "name": "Janet Loveseat",
+      "color": "Color: Adrian Velvet | Type:sofa | size:regular",
+      "price": 449,
+      "date": "2022-03-07",
+      "image": "https://www.ulcdn.net/images/products/283523/mini/Janet_adrian_velvet_LP.jpg?1566799468"
+    }
+    ]
+}
